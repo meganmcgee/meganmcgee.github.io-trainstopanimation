@@ -6,7 +6,7 @@ An animated map showing a train route in Alaska.
 Table of Contents
 - [Description](#description)
 - [How To Use](#howtouse)
-- [References](#References)
+- [Future Improvements](#Future Improvements)
 - [License](#License)
 
 ---
@@ -17,7 +17,7 @@ This project was an assignment through the MIT xPro Certificate in Coding progra
 
 ## How to Use
 
-If you follow the link meganmcgee.github.io/trainstopmap/ you will see a map box of Alaska along with a yellow button in the upper left corner. You'll also see a marker on the map that starts in Anchorage. Once you click the yellow button, you'll see the marker move along the map showing the scheduled stops of the train along this particular route. 
+If you follow the link [Train Stop Map](meganmcgee.github.io/trainstopmap/) you will see a map box of Alaska along with a yellow button in the upper left corner. You'll also see a marker on the map that starts in Anchorage. Once you click the yellow button, you'll see the marker move along the map showing the scheduled stops of the train along this particular route. 
 
 
 ## License
