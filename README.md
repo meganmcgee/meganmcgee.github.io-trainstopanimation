@@ -5,7 +5,7 @@ An animated map showing a train route in Alaska.
 
 Table of Contents
 - [Description](#Description)
-- [How To Use](#HowToUse)
+- [How To Use](#How To Use)
 - [Future Improvements](#FutureImprovements)
 - [License](#License)
 
