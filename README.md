@@ -19,7 +19,7 @@ This project was an assignment through the MIT xPro Certificate in Coding progra
 
 If you follow the link [Train Stop Map](http://meganmcgee.github.io/trainstopmap/) you will see a map box of Alaska along with a yellow button in the upper left corner. You'll also see a marker on the map that starts in Anchorage. Once you click the yellow button, you'll see the marker move along the map showing the scheduled stops of the train along this particular route. 
 ---
-## Futrue Improvements
+## Future Improvements
 
 If I were going to make improvements to this project, I might try to change the color of the marker to make it stand out a bit more against the map. I would also add other routes with additional buttons to differentiate them from each other. 
 ---
