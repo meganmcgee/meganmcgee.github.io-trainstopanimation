@@ -15,7 +15,7 @@ Table of Contents
 
 This project was an assignment through the MIT xPro Certificate in Coding program, in which I am currently enrolled. We were given some starter code and asked to choose a public transportation route to track on a map of our choice. The initial example given tracked bus stops, however I chose to look at train stops along South Central Alaska. 
 ---
-## How to Use
+## How To Use
 
 If you follow the link [Train Stop Map](http://meganmcgee.github.io/trainstopmap/) you will see a map box of Alaska along with a yellow button in the upper left corner. You'll also see a marker on the map that starts in Anchorage. Once you click the yellow button, you'll see the marker move along the map showing the scheduled stops of the train along this particular route. 
 ---
