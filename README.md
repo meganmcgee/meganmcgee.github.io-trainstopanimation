@@ -17,7 +17,7 @@ This project was an assignment through the MIT xPro Certificate in Coding progra
 
 ## How to Use
 
-If you follow the link [
+If you follow the link meganmcgee.github.io/trainstopmap/ you will see a map box of Alaska along with a yellow button in the upper left corner.
 
 
 ## License
